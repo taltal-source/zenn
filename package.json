@@ -1,0 +1,16 @@
+{
+  "name": "markdown",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/taltal-source/zenn.git",
+  "author": "taltal-source <0taltalsource@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.147"
+  },
+  "scripts": {
+    "article": "npx zenn new:article",
+    "book": "npx zenn new:book",
+    "preview": "npx zenn preview"
+  }
+}
