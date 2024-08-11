@@ -3,7 +3,7 @@ title: "Tailwind CSS IntelliSenseで珍しいケースに補完を効かせた�
 emoji: "🔍"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["tailwindcss", "frontend", "vscode"]
-published: false
+published: true
 ---
 
 ## はじめに
