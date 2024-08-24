@@ -3,7 +3,7 @@ title: "DjangoのFormとTailwindの組み合わせについてちゃんと考え
 emoji: "🎨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["python", "django", "tailwindcss"]
-published: false
+published: true
 ---
 
 
