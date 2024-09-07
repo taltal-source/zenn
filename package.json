@@ -6,7 +6,7 @@
   "author": "taltal-source <0taltalsource@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "zenn-cli": "^0.1.147"
+    "zenn-cli": "^0.1.155"
   },
   "scripts": {
     "article": "npx zenn new:article",
