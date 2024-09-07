@@ -3,7 +3,7 @@ title: "ViteをWSLのDevcontainerで入門してみた"
 emoji: "🚀"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["vite","wsl2","typescript","react","docker"]
-published: false
+published: true
 ---
 
 ### はじめに
